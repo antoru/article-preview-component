@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [...](...)
+- Live Site URL: [https://antoru-article-preview-component.netlify.app/](https://antoru-article-preview-component.netlify.app/)
 
 ## My process
 
